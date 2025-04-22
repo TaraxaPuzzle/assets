@@ -46,5 +46,17 @@
     "symbol": "CHDPU",
     "decimals": 18,
     "logo": "./0xaad94Afea296DCF8c97D05dbf3733A245c3Ea78F/logo.png"
+  },
+  "0x39b1fC930C43606af5C353e90a55db10bCaF4087": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logo": "./0x39b1fC930C43606af5C353e90a55db10bCaF4087/logo.png"
+  },
+  "0xf9BA22c56c04040115224c8048C21406fc8Ac1a7": {
+    "name": "Bitra",
+    "symbol": "BTR",
+    "decimals": 18,
+    "logo": "./0xf9BA22c56c04040115224c8048C21406fc8Ac1a7/logo.png"
   }
 }
