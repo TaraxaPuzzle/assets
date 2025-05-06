@@ -40,5 +40,11 @@
     "symbol": "CHDPU",
     "decimals": 18,
     "logo": "./0xaad94Afea296DCF8c97D05dbf3733A245c3Ea78F/logo.png"
+  },
+  "0x4aFcFbF183C743362CeE976e5E94A3E5FB729935": {
+    "name": "Fomogod",
+    "symbol": "FOMOG",
+    "decimals": 18,
+    "logo": "./0x4aFcFbF183C743362CeE976e5E94A3E5FB729935/logo.png"
   }
 }
