@@ -11,6 +11,12 @@
     "decimals": 18,
     "logo": "./0x37Df886BE517F9c75b27Cb70dac0D61432C92FBE/logo.png"
   },
+  "0x31E7b8CF625aA83ac77441b7245f97acA25aa4C5": {
+    "name": "Wrapped Staked TARA",
+    "symbol": "wstTARA",
+    "decimals": 18,
+    "logo": "./0x31E7b8CF625aA83ac77441b7245f97acA25aa4C5/logo.png"
+  },
   "0xC26B690773828999c2612549CC815d1F252EA15e": {
     "name": "USDM Stablecoin",
     "symbol": "USDM",
@@ -40,6 +46,18 @@
     "symbol": "CHDPU",
     "decimals": 18,
     "logo": "./0xaad94Afea296DCF8c97D05dbf3733A245c3Ea78F/logo.png"
+  },
+  "0x39b1fC930C43606af5C353e90a55db10bCaF4087": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logo": "./0x39b1fC930C43606af5C353e90a55db10bCaF4087/logo.png"
+  },
+  "0xf9BA22c56c04040115224c8048C21406fc8Ac1a7": {
+    "name": "Bitra",
+    "symbol": "BTR",
+    "decimals": 18,
+    "logo": "./0xf9BA22c56c04040115224c8048C21406fc8Ac1a7/logo.png"
   },
   "0x4aFcFbF183C743362CeE976e5E94A3E5FB729935": {
     "name": "Fomogod",
