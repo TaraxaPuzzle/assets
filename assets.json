@@ -58,5 +58,11 @@
     "symbol": "BTR",
     "decimals": 18,
     "logo": "./0xf9BA22c56c04040115224c8048C21406fc8Ac1a7/logo.png"
+  },
+  "0x4aFcFbF183C743362CeE976e5E94A3E5FB729935": {
+    "name": "Fomogod",
+    "symbol": "FOMOG",
+    "decimals": 18,
+    "logo": "./0x4aFcFbF183C743362CeE976e5E94A3E5FB729935/logo.png"
   }
 }
