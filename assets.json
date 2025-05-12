@@ -65,16 +65,16 @@
     "decimals": 18,
     "logo": "./0x4AFCfbf183c743362cEE976e5e94a3E5FB729935/logo.png"
   },
-  "0xbC95C270974BB92603BC725492e30734e59b478C": {
+  "0x1123E16aBEA3A59E16d2b5614668481F7d15a706": {
     "name": "SLM",
     "symbol": "SLM",
     "decimals": 18,
-    "logo": "./0xbC95C270974BB92603BC725492e30734e59b478C/logo.png"
+    "logo": "./0x1123E16aBEA3A59E16d2b5614668481F7d15a706/logo.png"
   },
-  "0x2f35216c538B3D0a1Ea12b3Ff741a8053d430868": {
+  "0x1b391a6469DF6cd704E7b72F08396942Fc3a4Aa9": {
     "name": "ZZZ",
     "symbol": "ZZZ",
     "decimals": 18,
-    "logo": "./0x2f35216c538B3D0a1Ea12b3Ff741a8053d430868/logo.png"
+    "logo": "./0x1b391a6469DF6cd704E7b72F08396942Fc3a4Aa9/logo.png"
   }
 }
