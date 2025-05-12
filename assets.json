@@ -70,5 +70,11 @@
     "symbol": "SLM",
     "decimals": 18,
     "logo": "./0xbC95C270974BB92603BC725492e30734e59b478C/logo.png"
+  },
+  "0x2f35216c538B3D0a1Ea12b3Ff741a8053d430868": {
+    "name": "ZZZ",
+    "symbol": "ZZZ",
+    "decimals": 18,
+    "logo": "./0x2f35216c538B3D0a1Ea12b3Ff741a8053d430868/logo.png"
   }
 }
