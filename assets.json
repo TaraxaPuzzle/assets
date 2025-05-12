@@ -64,5 +64,11 @@
     "symbol": "FOMOG",
     "decimals": 18,
     "logo": "./0x4AFCfbf183c743362cEE976e5e94a3E5FB729935/logo.png"
+  },
+  "0xbC95C270974BB92603BC725492e30734e59b478C": {
+    "name": "SLM",
+    "symbol": "SLM",
+    "decimals": 18,
+    "logo": "./0xbC95C270974BB92603BC725492e30734e59b478C/logo.png"
   }
 }
