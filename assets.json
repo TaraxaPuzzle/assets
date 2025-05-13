@@ -76,5 +76,11 @@
     "symbol": "ZZZ",
     "decimals": 18,
     "logo": "./0x1b391a6469DF6cd704E7b72F08396942Fc3a4Aa9/logo.png"
+  },
+  "0x2D81DbA37a3F52d5ecD42E61C0954De13cAeF08e": {
+    "name": "USDC",
+    "symbol": "USDC.base",
+    "decimals": 6,
+    "logo": "./0x2D81DbA37a3F52d5ecD42E61C0954De13cAeF08e/logo.png"
   }
 }
