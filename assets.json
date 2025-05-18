@@ -82,5 +82,11 @@
     "symbol": "USDC.base",
     "decimals": 6,
     "logo": "./0x8712796136Ac8e0EEeC123251ef93702f265aa80/logo.png"
+  },
+  "0xBbe79c01e55D6F88cc008a32Bca613f083Ee7374": {
+    "name": "Tara XTrend",
+    "symbol": "TXTR",
+    "decimals": 18,
+    "logo": "./0xBbe79c01e55D6F88cc008a32Bca613f083Ee7374/logo.png"
   }
 }
