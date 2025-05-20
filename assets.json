@@ -88,5 +88,11 @@
     "symbol": "TXTR",
     "decimals": 18,
     "logo": "./0xBbe79c01e55D6F88cc008a32Bca613f083Ee7374/logo.png"
+  },
+  "0x8B7FCf9934E58674D9bC6FC9aD8E684380DA1FD4": {
+    "name": "MST",
+    "symbol": "MST",
+    "decimals": 18,
+    "logo": "./0x8B7FCf9934E58674D9bC6FC9aD8E684380DA1FD4/logo.png"
   }
 }
