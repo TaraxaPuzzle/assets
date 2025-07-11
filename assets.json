@@ -94,5 +94,11 @@
     "symbol": "MST",
     "decimals": 18,
     "logo": "./0x8B7FCf9934E58674D9bC6FC9aD8E684380DA1FD4/logo.png"
+  },
+  "0xacB8b71500B616c20fE18c48fc965D0981538D54": {
+    "name": "Grumpy on Tara",
+    "symbol": "GRUMPY",
+    "decimals": 18,
+    "logo": "./0xacB8b71500B616c20fE18c48fc965D0981538D54/logo.png"
   }
 }
